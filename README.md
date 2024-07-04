@@ -31,7 +31,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   
-<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@mr_vinxth" height="30" width="100" /></a>
+<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@mr_vinxth" height="30" width="30" /></a>
 
 <a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mr_vinxth" height="30" width="100" /></a>
 <a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vinoth365" height="30" width="100" /></a>
