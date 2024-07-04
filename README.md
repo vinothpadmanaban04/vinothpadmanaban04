@@ -1,5 +1,5 @@
-<img align="center" src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1060&t=st=1685726043~exp=1685726643~hmac=a2f137febf7201fc99629a12969b05899ebcb4c0c0ec7adc7e18be66425c3efa" alt="hlo" height="300" width="100%">
-<img align="right" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d" alt="hiiiii" width="320" height="300">
+<img align="center" src="https://img.freepik.com/free-vector/data-concept-illustration-idea-collecting-analysing-using_613284-1574.jpg?w=1060&t=st=1685726043~exp=1685726643~hmac=a2f137febf7201fc99629a12969b05899ebcb4c0c0ec7adc7e18be66425c3efa" alt="hlo" height="400" width="100%">
+<img align="right" src="https://www.bing.com/th/id/OGC.fc71635c7f1b09ed30413f59bb749582?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f20368%2fscreenshots%2f4012238%2fdata_scene.gif&ehk=ECXtJw2tY6eCGzPJwDsu%2f9t8tB%2fvV%2bIUsxiCEq0QX84%3d" alt="hiiiii" width="320" height="200">
 
 <h1 align="center">Hello there, I am Vinoth😎</h1>
 <h3 align="center">Thank you for visiting my profile✌️</h3>
@@ -31,10 +31,9 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   
-<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@mr_vinxth" height="30" width="100" /></a>
-
-<a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mr_vinxth" height="30" width="100" /></a>
-<a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vinoth365" height="30" width="100" /></a>
+<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="@mr_vinxth" height="40" width="40" /></a>
+<a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="mr_vinxth" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="vinoth365" height="40" width="40" /></a>
 </p>
 
 
