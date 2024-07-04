@@ -21,19 +21,20 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="70" height="40"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="40"/> </a> </p><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=harikumaranc&" alt="harikumaranc"  height="250" width="350" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothpadmanaban04&" alt="vinothpadmanaban04"  height="250" width="350" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikumaranc&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothpadmanaban04&show_icons=true&theme=tokyonight)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=harikumaranc&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinothpadmanaban04&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/@hk_18_" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@hk_18_" height="30" width="100" /></a>
-<a href="https://fb.com/harikumaran" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="harikumaran" height="30" width="100" /></a>
-<a href="https://instagram.com/hari_kumaran_18" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="hari_kumaran_18" height="30" width="100" /></a>
-<a href="https://www.hackerrank.com/harikumaran c" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harikumaran c" height="30" width="100" /></a>
+  
+<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="@mr_vinxth" height="30" width="100" /></a>
+
+<a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="mr_vinxth" height="30" width="100" /></a>
+<a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="vinoth365" height="30" width="100" /></a>
 </p>
 
 
