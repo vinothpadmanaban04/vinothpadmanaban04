@@ -24,7 +24,7 @@
 <h3 align="">Connect with me:</h3>
 <p align="center">
   
-<a href="https://linkedin.com/@mr_vinxth" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="@mr_vinxth" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinothp4/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="@vinothp4" height="40" width="40" /></a>
 <a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="mr_vinxth" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="vinoth365" height="40" width="40" /></a>
 </p>
