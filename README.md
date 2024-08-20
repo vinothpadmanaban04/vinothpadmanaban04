@@ -21,13 +21,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="60" height="50"/> </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="50"/> </a> </p><br>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothpadmanaban04&" alt="vinothpadmanaban04"  height="250" width="350" /></p>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothpadmanaban04&show_icons=true&theme=tokyonight)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vinothpadmanaban04&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h3 align="">Connect with me:</h3>
 <p align="center">
   
@@ -35,6 +28,13 @@
 <a href="https://instagram.com/mr_vinxth" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="mr_vinxth" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/vinoth365" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" alt="vinoth365" height="40" width="40" /></a>
 </p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vinothpadmanaban04&" alt="vinothpadmanaban04"  height="250" width="350" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothpadmanaban04&show_icons=true&theme=tokyonight)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinothpadmanaban04&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
